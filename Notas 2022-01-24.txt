@@ -15,6 +15,9 @@ Tareas:
 - Ordenar PC (Imprimir boletas)
 - Estudiar Data Scienc
 - Pasar en limpio Rutinas
+- Elaborar tarea con Rossy
+- Escribir a Carlos
+- Hacer lab
 - Llamar a instalar sw
 
 
